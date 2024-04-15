@@ -12,7 +12,7 @@ import org.json.JSONObject;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        //print фио
+        System.out.println("\nБелин Георгий Алексеевич, РИБО-01-22, Вариант 1\n");
 
         /*String server = "https://www.mirea.ru/schedule/";
         HTTPRunnable hTTPRunnable = new HTTPRunnable(server, null);
